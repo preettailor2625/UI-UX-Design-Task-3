@@ -43,6 +43,7 @@ The Spotify redesign was a challenging yet deeply rewarding task. By focusing on
 OUTPUT
 
 BEFORE
+
 <img width="348" height="716" alt="Image" src="https://github.com/user-attachments/assets/9f79dfcd-e05d-4b91-80ce-9b1c07af643d" />
 <img width="347" height="725" alt="Image" src="https://github.com/user-attachments/assets/ef031df5-70e2-4687-b46e-53d072d1f0a8" />
 <img width="340" height="717" alt="Image" src="https://github.com/user-attachments/assets/a556035d-dfaa-47fc-b99b-0f97baff5db5" />
