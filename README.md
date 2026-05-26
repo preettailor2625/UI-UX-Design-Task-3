@@ -41,3 +41,11 @@ Conclusion
 The Spotify redesign was a challenging yet deeply rewarding task. By focusing on one specific pain point — poor navigation — and addressing it systematically across all four key screens of the app, I was able to produce a prototype that feels noticeably cleaner, faster to navigate, and more enjoyable to use. The light and minimal theme gives the redesign a modern identity while keeping Spotify's brand colour, the iconic green, as the primary accent throughout. This project has significantly strengthened my Figma skills and my overall approach to mobile UI/UX design thinking.
 
 OUTPUT
+
+BEFORE
+<img width="348" height="716" alt="Image" src="https://github.com/user-attachments/assets/9f79dfcd-e05d-4b91-80ce-9b1c07af643d" />
+<img width="347" height="725" alt="Image" src="https://github.com/user-attachments/assets/ef031df5-70e2-4687-b46e-53d072d1f0a8" />
+<img width="340" height="717" alt="Image" src="https://github.com/user-attachments/assets/a556035d-dfaa-47fc-b99b-0f97baff5db5" />
+<img width="356" height="718" alt="Image" src="https://github.com/user-attachments/assets/19e8637b-b455-4a29-9886-8150210a5b09" />
+
+AFTER
