@@ -50,3 +50,8 @@ BEFORE
 <img width="356" height="718" alt="Image" src="https://github.com/user-attachments/assets/19e8637b-b455-4a29-9886-8150210a5b09" />
 
 AFTER
+
+<img width="338" height="721" alt="Image" src="https://github.com/user-attachments/assets/b6cd3439-5341-420c-90a4-e45888bec8b5" />
+<img width="347" height="718" alt="Image" src="https://github.com/user-attachments/assets/44a1afe0-c4ca-4afb-8d31-18adaf6efedf" />
+<img width="342" height="722" alt="Image" src="https://github.com/user-attachments/assets/510ad5db-51cf-496f-a879-ac8ee18e8b65" />
+<img width="347" height="723" alt="Image" src="https://github.com/user-attachments/assets/74627ec2-915a-4d44-a1f9-f808839e8814" />
